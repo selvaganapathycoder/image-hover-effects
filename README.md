@@ -5,7 +5,7 @@ A simple and creative collection of image hover effects using HTML and CSS. Grea
 
 ## 📸 Demo
 
-🔗 [Live Demo](https://yourusername.github.io/image-hover-effects/)  
+🔗 [Live Demo]( https://selvaganapathycoder.github.io/image-hover-effects/)  
 
 
 ## 🧰 Technologies Used
